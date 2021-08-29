@@ -1,0 +1,20 @@
+Maths is a course.
+John is a student. 
+Mary is a teacher.
+Mary teaches Maths. 
+John takes Maths.
+Maths and science are courses.
+Mary or John are teachers. 
+Mary is a teacher and John is a student.
+All students are smart.
+There exists a student.
+There exists a smart student.
+John is not smart.
+Every student takes at least one course.
+Some students takes all courses.
+Ravi teaches Maths.
+Ravi makes Tea.
+All judges are lawyers.
+Jones is a lawyer.
+Jones admires Saul.
+Some lawyers admires all judges.

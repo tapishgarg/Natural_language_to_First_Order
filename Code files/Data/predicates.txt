@@ -1,0 +1,10 @@
+course
+student
+teacher
+takes
+teaches
+smart
+man
+mortal
+makes
+

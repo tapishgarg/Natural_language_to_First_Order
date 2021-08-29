@@ -1,0 +1,12 @@
+\w+/(NN|NNP|NNS|JJ)\sis/VBZ\s(a|the|an)/DT\s\w+/(NN|NNP|NNS|JJ) 4 1
+\w+/(NN|NNP|NNS|JJ)\s\w+/NNS\s\w+/(NN|NNP|NNS|JJ) 2 1,3
+\w+/(NN|NNP|NNS|JJ)\s\w+/VBZ\s\w+/(NN|NNP|NNS|JJ) 2 1,3
+\w+/(NN|NNP|NNS|JJ)\sand/CC\s\w+/(NN|NNP|NNS|JJ)\s\w+/VBP\s\w+/(NN|NNP|NNS|JJ) 5 1,3
+\w+/(NN|NNP|NNS|JJ)\sor/CC\s\w+/(NN|NNP|NNS|JJ)\s\w+/VBP\s\w+/(NN|NNP|NNS|JJ)5 1,3
+\w+/(NN|NNP|NNS|JJ)\sis/VBZ\s(a|the|an)/DT\s\w+/(NN|NNP|NNS|JJ)\sand/CC\s\w+/(NN|NNP)\sis/VBZ\s(a|the|an)/DT\s\w+/(NN|NNP|NNS|JJ) 4,9 1,6
+(All|Every)/DT\s\w+/(NN|NNP|NNS|JJ)\s\w+/VBP\s\w+/(JJ|NN|NNS|NNP) 2,4
+There/EX\sexists/VBZ\s(a|an|the)/DT\s\w+/(NN|NNS|NNP) 4
+There/EX\sexists/VBZ\s(a|an|the)/DT\s\w+/JJ\s\w+/(NN|NNS|NNP) 4,5 
+\w+/NNP\sis/VBZ\snot/RB\s\w+/JJ 4 1
+Every/DT\s\w+/NN\s\w+/VBZ\sat/IN\sleast/JJS\sone/CD\s\w+/NN 2,7,3
+Some/DT\s\w+/(NN|NNP|NNS|JJ)\s\w+/(VBZ|VBP)\sall/DT\s\w+/(NN|NNP|NNS|JJ) 2,5,3
